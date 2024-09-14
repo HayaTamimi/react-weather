@@ -25,7 +25,7 @@ export default function Weather() {
         </ul>
         <div className="row">
           <div className="col-6">
-            <img src="pic" />6 degree
+            <img src="pic" alt="pic"/>6 degree
           </div>
           <div className="col-6">
             <ul>
