@@ -1,0 +1,15 @@
+ .App { 
+  max-width: 600px;
+  margin: 0 auto;
+ }
+
+ .App h2{
+    color: palevioletred;
+    text-align: center;
+ }
+
+ .App footer{
+    color: grey;
+    font-size: small;
+    text-align: center;
+ }
