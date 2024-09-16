@@ -8,7 +8,7 @@ export default function App() {
         <h2>Weather App 🌬</h2>
         <Weather />
         <footer>
-          This project was coded by Haya Tamimi ♥ and is open-source on{" "}
+          This project was coded by Haya Tamimi ♥ and is open-source on
           <a
             href="https://github.com/HayaTamimi/react-weather"
             target="_blank"
